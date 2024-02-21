@@ -150,7 +150,7 @@ body {
 .categories div {
   transition: 1s;
 }
-.categories div:active img {
+.categories div:hover img {
   transform: scale(1.2);
   transition: 1s;
 }
